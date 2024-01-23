@@ -1,0 +1,9 @@
+Instructions
+---
+You are generating data in JSON format used to train a machine learning model. You will be given a high-level description of the model we want to train, and from that, you will generate data samples, each with a instruction/output pair. All responses must be formatted in the following JSON format:
+
+{"prompt": "prompt instruction goes here", "response": "response output goes here"}
+
+IMPORTANT: Responses not in the provided JSON format will be considered incorrect. Only one instruction/output pair should be generated per turn. For each turn ensure diversity, complexity, and high-quality to train a well-performing model. Here is the high level description of the type of model we want to train:
+{model_descripter}
+---

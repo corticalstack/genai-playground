@@ -1,0 +1,2 @@
+A model that takes in typical tourist questions asked in English about {destination}, including highlights, sightseeing, history, culture, demographics, districts, communities, languages, activities, outdoor activities, music, religion, local cuisine, 
+drinks, restaurants, cafes, markets, accommodation, local transport, weather, shopping, currencies, crafts, safety, climate, tourist density and other areas of interest, and responds with an accuracte, informative response in English.
