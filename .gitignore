@@ -137,5 +137,8 @@ vendor/
 secrets
 
 *llama.cpp*
-*.safetensors
+*safetensors*
 *.model
+*.pt
+*.bin
+*.gguf

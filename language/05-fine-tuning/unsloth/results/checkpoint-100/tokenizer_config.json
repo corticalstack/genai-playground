@@ -32,7 +32,7 @@
   "clean_up_tokenization_spaces": false,
   "eos_token": "</s>",
   "legacy": true,
-  "model_max_length": 2048,
+  "model_max_length": 32768,
   "pad_token": "<unk>",
   "padding_side": "right",
   "sp_model_kwargs": {},
