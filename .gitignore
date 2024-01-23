@@ -135,3 +135,7 @@ vendor/
 
 #secrets
 secrets
+
+*llama.cpp*
+*.safetensors
+*.model
