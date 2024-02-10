@@ -1,6 +1,6 @@
 ---
 library_name: peft
-base_model: unsloth/mistral-7b
+base_model: unsloth/mistral-7b-bnb-4bit
 ---
 
 # Model Card for Model ID
