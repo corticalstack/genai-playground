@@ -1,5 +1,5 @@
 {
-  "_name_or_path": "../05-fine-tuning/unsloth-openhermes-dataset/CorticalStack/OpenHermes-Mistral-7B-GGUF",
+  "_name_or_path": "unsloth/mistral-7b-bnb-4bit",
   "architectures": [
     "MistralForCausalLM"
   ],
@@ -16,24 +16,13 @@
   "num_hidden_layers": 32,
   "num_key_value_heads": 8,
   "pad_token_id": 2,
-  "quantization_config": {
-    "bits": 4,
-    "damp_percent": 0.1,
-    "dataset": "wikitext2",
-    "desc_act": false,
-    "group_size": 128,
-    "modules_in_block_to_quantize": null,
-    "quant_method": "gptq",
-    "sym": true,
-    "true_sequential": true
-  },
   "rms_norm_eps": 1e-05,
   "rope_theta": 10000.0,
   "sliding_window": 4096,
   "tie_word_embeddings": false,
-  "torch_dtype": "float16",
-  "transformers_version": "4.37.0",
-  "unsloth_version": "2024.1",
+  "torch_dtype": "bfloat16",
+  "transformers_version": "4.37.2",
+  "unsloth_version": "2024.2",
   "use_cache": true,
   "vocab_size": 32000
 }

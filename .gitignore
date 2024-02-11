@@ -143,3 +143,7 @@ secrets
 *.bin
 *.gguf
 *checkpoint*
+*parquet*
+*gguf
+*gptq
+*AutoAWQ*
