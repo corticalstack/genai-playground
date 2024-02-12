@@ -147,3 +147,4 @@ secrets
 *gguf
 *gptq
 *AutoAWQ*
+language/06-quantize/OpenHermes-Mistral-7B-GGUF
