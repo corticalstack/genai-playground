@@ -1,5 +1,5 @@
 {
-  "_name_or_path": "../05-fine-tuning/unsloth/model_q4_k_m_gguf",
+  "_name_or_path": "travel-mistral-7B-16b-base",
   "architectures": [
     "MistralForCausalLM"
   ],
@@ -32,8 +32,8 @@
   "sliding_window": 4096,
   "tie_word_embeddings": false,
   "torch_dtype": "float16",
-  "transformers_version": "4.37.0",
-  "unsloth_version": "2024.1",
+  "transformers_version": "4.37.2",
+  "unsloth_version": "2024.2",
   "use_cache": true,
   "vocab_size": 32000
 }
