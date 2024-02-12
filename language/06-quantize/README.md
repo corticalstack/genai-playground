@@ -19,3 +19,5 @@ conda install conda-forge::git-lfs
 
 git clone https://github.com/turboderp/exllamav2
 pip install -e exllamav2
+
+pip install -q auto-gptq
