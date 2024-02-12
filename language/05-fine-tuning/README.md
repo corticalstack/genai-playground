@@ -18,3 +18,4 @@ pip install accelerate
 pip install "unsloth[conda] @ git+https://github.com/unslothai/unsloth.git"
 conda install conda-forge::datasets
 conda install conda-forge::git-lfs
+conda install conda-forge::wandb
