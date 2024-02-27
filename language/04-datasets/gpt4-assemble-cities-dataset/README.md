@@ -11,3 +11,4 @@ conda install conda-forge::transformers
 pip install chardet
 pip install accelerate
 conda install conda-forge::openai
+pip install huggingface_hub[cli]
